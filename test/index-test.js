@@ -2,16 +2,16 @@
 
 function 
 happyholidays(){
-  console.log("Happy holidays!")
+  return string("Happy holidays!")
 }
 
 happyHolidaysTo(){
-  console.log('Happy holidays, ${Joe}!')
+  return string('Happy holidays, ${Joe}!')
 }
 
 function
 happyHolidayTo(){
-  console.log('Happy ${holiday},${Susan}!')
+  return string('Happy ${holiday},${Susan}!')
 }
 
 function
